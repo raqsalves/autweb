@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time 
 
-# Iniciando o web driver
+# iniciando o web driver
 driver = webdriver.Chrome()  # utilizei o chrome pq é oq mais uso
 
 try:
